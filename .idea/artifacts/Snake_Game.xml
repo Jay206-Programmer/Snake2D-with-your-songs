@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Snake Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/Snake_Game</output-path>
+    <root id="root">
+      <element id="archive" name="Snake_Game.jar">
+        <element id="module-output" name="Snake Game" />
+      </element>
+    </root>
+  </artifact>
+</component>
